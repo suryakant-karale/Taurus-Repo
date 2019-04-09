@@ -1,4 +1,4 @@
 node{
 stage 'Run JMeter Test'
-'C:/Jenkins\computers_Database_gatling.jmx -o execution.0.concurrency=10 -o execution.0.iterations=1 -o execution.0.ramp-up=10s -report'
+'C:/Jenkins/computers_Database_gatling.jmx -o execution.0.concurrency=10 -o execution.0.iterations=1 -o execution.0.ramp-up=10s -report'
 }
