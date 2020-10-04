@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="10622" it="4" lt="0" ct="2719" ts="1601829130195" s="true" lb="Home Page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="445978" sby="4843" ng="5" na="5">
+  <httpSample t="10622" it="0" lt="3310" ct="2719" ts="1601829130197" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="445978" sby="4843" ng="5" na="5">
+    <httpSample t="3702" it="0" lt="3310" ct="2719" ts="1601829130197" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-0" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="13068" sby="391" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="2010" it="0" lt="2009" ct="1654" ts="1601829134175" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2377" it="0" lt="2377" ct="1826" ts="1601829134179" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-2" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="4680" it="0" lt="2828" ct="1827" ts="1601829134186" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-3" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="51886" sby="404" ng="5" na="5">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="4766" it="0" lt="2484" ct="1826" ts="1601829134190" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-4" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="92197" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="5121" it="0" lt="2744" ct="1993" ts="1601829134180" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-5" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="148545" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2001" it="0" lt="2001" ct="1637" ts="1601829134183" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-6" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4764" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="2655" it="0" lt="2655" ct="2170" ts="1601829136187" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-7" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3833" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3280" it="0" lt="3280" ct="3043" ts="1601829136187" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-8" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4658" sby="528" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="4261" it="0" lt="2716" ct="2179" ts="1601829136559" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-9" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="124310" sby="462" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="11184" it="150" lt="0" ct="3229" ts="1601829129520" s="true" lb="Home Page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="445979" sby="4843" ng="5" na="5">
+  <httpSample t="11184" it="0" lt="3758" ct="3229" ts="1601829129669" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="445979" sby="4843" ng="5" na="5">
+    <httpSample t="4181" it="0" lt="3758" ct="3229" ts="1601829129669" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-0" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13069" sby="391" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="2468" it="0" lt="2468" ct="1888" ts="1601829134186" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1837" it="0" lt="1836" ct="1567" ts="1601829134179" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-2" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="4876" it="0" lt="4558" ct="2179" ts="1601829134183" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-3" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="51886" sby="404" ng="5" na="5">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="3153" it="0" lt="1947" ct="1536" ts="1601829134183" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-4" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="92197" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="5029" it="0" lt="2094" ct="1631" ts="1601829134191" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-5" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="148545" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="1814" it="0" lt="1814" ct="1536" ts="1601829134188" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-6" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4764" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3678" it="0" lt="3678" ct="3381" ts="1601829136006" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-7" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3833" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3194" it="0" lt="3194" ct="2727" ts="1601829136019" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-8" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4658" sby="528" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="4198" it="0" lt="2702" ct="2185" ts="1601829136656" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-9" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124310" sby="462" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="10880" it="3" lt="0" ct="2885" ts="1601829130011" s="true" lb="Home Page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="445978" sby="4843" ng="5" na="5">
+  <httpSample t="10880" it="0" lt="3414" ct="2885" ts="1601829130013" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="445978" sby="4843" ng="5" na="5">
+    <httpSample t="3837" it="0" lt="3414" ct="2885" ts="1601829130013" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-0" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="13068" sby="391" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="1763" it="0" lt="1762" ct="1536" ts="1601829134186" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2343" it="0" lt="2343" ct="1798" ts="1601829134187" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-2" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="5048" it="0" lt="3937" ct="2177" ts="1601829134189" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-3" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="51886" sby="404" ng="5" na="5">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="4694" it="0" lt="2746" ct="2014" ts="1601829134171" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-4" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="92197" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="6487" it="0" lt="1972" ct="1605" ts="1601829134171" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-5" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="148545" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2353" it="0" lt="2353" ct="1808" ts="1601829134176" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-6" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4764" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3026" it="0" lt="3026" ct="2736" ts="1601829135955" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-7" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3833" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="2930" it="0" lt="2928" ct="2702" ts="1601829136534" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-8" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4658" sby="528" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="4360" it="0" lt="2929" ct="2695" ts="1601829136534" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-9" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="124310" sby="462" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="11404" it="49" lt="0" ct="3236" ts="1601829129621" s="true" lb="Home Page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="445978" sby="4843" ng="5" na="5">
+  <httpSample t="11404" it="0" lt="3794" ct="3236" ts="1601829129669" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="445978" sby="4843" ng="5" na="5">
+    <httpSample t="4181" it="0" lt="3794" ct="3236" ts="1601829129669" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-0" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="13068" sby="391" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="2036" it="0" lt="2036" ct="1634" ts="1601829134187" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2046" it="0" lt="2045" ct="1647" ts="1601829134188" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-2" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="4690" it="0" lt="2806" ct="1830" ts="1601829134187" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-3" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="51886" sby="404" ng="5" na="5">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="3910" it="0" lt="1980" ct="1555" ts="1601829134189" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-4" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="92197" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="5536" it="0" lt="4419" ct="2176" ts="1601829134190" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-5" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="148545" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="1923" it="0" lt="1923" ct="1568" ts="1601829134174" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-6" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4764" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3130" it="0" lt="3130" ct="2748" ts="1601829136104" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-7" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3833" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3011" it="0" lt="3011" ct="2696" ts="1601829136226" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-8" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4658" sby="528" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="4838" it="0" lt="3586" ct="2994" ts="1601829136236" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-9" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="124310" sby="462" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="11283" it="5" lt="0" ct="3089" ts="1601829129813" s="true" lb="Home Page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="445979" sby="4843" ng="5" na="5">
+  <httpSample t="11283" it="0" lt="3710" ct="3089" ts="1601829129816" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="445979" sby="4843" ng="5" na="5">
+    <httpSample t="4095" it="0" lt="3710" ct="3089" ts="1601829129816" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-0" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="13069" sby="391" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="1841" it="0" lt="1841" ct="1573" ts="1601829134175" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1838" it="0" lt="1838" ct="1569" ts="1601829134180" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-2" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="4612" it="0" lt="2487" ct="1573" ts="1601829134177" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-3" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="51886" sby="404" ng="5" na="5">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="4509" it="0" lt="2348" ct="1766" ts="1601829134182" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-4" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="92197" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="5046" it="0" lt="2169" ct="1625" ts="1601829134184" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-5" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="148545" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2952" it="0" lt="2952" ct="2173" ts="1601829134182" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-6" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4764" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3665" it="0" lt="3665" ct="3368" ts="1601829136019" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-7" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3833" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3211" it="0" lt="3211" ct="2841" ts="1601829136021" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-8" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4658" sby="528" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="3964" it="0" lt="3013" ct="2222" ts="1601829137136" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/home-9" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="124310" sby="462" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="80786" it="34" lt="0" ct="8623" ts="1601829141078" s="true" lb="Login username and password" rc="200" rm="Number of samples in transaction : 7, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="6404500" sby="17722" ng="5" na="5">
+  <httpSample t="68893" it="0" lt="1613" ct="1174" ts="1601829141083" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="6390443" sby="13940" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1613" it="0" lt="1613" ct="1174" ts="1601829141083" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-0" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="906" sby="796" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc:8443/users/authenticate</java.net.URL>
+    </httpSample>
+    <httpSample t="2798" it="0" lt="2798" ct="1481" ts="1601829142697" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-1" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="1738" sby="1106" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/auth_callback?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbiI6InN1cnlha2FudGtrIiwidXNlcl9pZCI6NDM2MTMsInNzb19wcm92aWRlcl9uYW1lIjoiIiwic3NvX2lkZW50aWZpZXIiOiIiLCJjbHVzdGVyX2lkIjotMSwicG9ydGZvbGlvX2lkIjoic3luZXJ6aXAxIiwidGltZV96b25lIjowLCJlbWFpbCI6IiIsImdpdmVuX25hbWUiOiIiLCJmYW1pbHlfbmFtZSI6IiIsInJldHVybl90byI6IiIsImF1ZCI6Imh0dHBzOi8vcHJkc3ByaW50LmFzc2VtYmxhLmNjIiwiZXhwIjoxNjAxODI5MzEwLCJqdGkiOiI0NWYzNTRkNC0yYWIxLTRkY2ItODE0NC0yYjZhOGRiZjUzYWYiLCJpYXQiOjE2MDE4MjkxMzAsImlzcyI6ImF1dGgtc3ZjIn0.BoTK6QRnpFOJPuAgTC78ZWc6Ejd_RzwUVyughgNnHoU</java.net.URL>
+    </httpSample>
+    <httpSample t="2035" it="0" lt="2034" ct="1640" ts="1601829145499" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-2" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="1302" sby="728" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/start</java.net.URL>
+    </httpSample>
+    <httpSample t="2105" it="0" lt="1329" ct="0" ts="1601829147537" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-3" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="38923" sby="748" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="519" it="0" lt="0" ct="360" ts="1601829149659" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-4" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="439" sby="733" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="167" it="0" lt="167" ct="0" ts="1601829149659" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-5" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="930" sby="632" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1559" it="0" lt="680" ct="443" ts="1601829149660" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-6" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="92197" sby="563" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="967" it="0" lt="667" ct="434" ts="1601829149661" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-7" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="41296" sby="591" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/sections/portfolio_manager/portfolio_manager-ad2606171f2e031af0712c2b2de81b673ac7905b5d99957d6e9ac6ad349c67a8.css</java.net.URL>
+    </httpSample>
+    <httpSample t="4215" it="0" lt="668" ct="440" ts="1601829149661" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-8" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="232903" sby="552" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3971" it="0" lt="176" ct="0" ts="1601829149659" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-9" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="257008" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="140" it="0" lt="140" ct="0" ts="1601829149827" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-10" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3102" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="28171" it="0" lt="206" ct="0" ts="1601829149973" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-11" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1120348" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/base-7f9650cceefd0b8e85a356e73946ec0070451f086c41fe55b13f9242e3e89528.js</java.net.URL>
+    </httpSample>
+    <httpSample t="59797" it="0" lt="2015" ct="1360" ts="1601829150179" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-12" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2151391" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="5311" it="0" lt="4006" ct="3414" ts="1601829150712" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-13" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="43524" sby="578" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="3617" it="0" lt="3617" ct="3049" ts="1601829151220" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-14" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4914" sby="561" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="50761" it="0" lt="5278" ct="2940" ts="1601829154278" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-15" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1032206" sby="572" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="39072" it="0" lt="7198" ct="5199" ts="1601829154493" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-16" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="967421" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="10381" it="0" lt="4855" ct="2331" ts="1601829154838" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-17" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="140581" sby="582" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/portfolio_manager/new_start-16244c8555b74269d65bde8e9445a7d6ed595a11a4871489f5c56a32b222b720.js</java.net.URL>
+    </httpSample>
+    <httpSample t="19078" it="0" lt="19078" ct="5030" ts="1601829156022" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-18" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="2138" sby="626" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="8747" it="0" lt="8747" ct="8077" ts="1601829165221" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-19" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="3571" sby="631" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="979" it="0" lt="979" ct="0" ts="1601829173970" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-20" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="4835" sby="624" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/avatars/big/5-31313161366635306264363765353264616236326362666565616638393830653434396536626437666664636535613964356336343234313436363835373731.png</java.net.URL>
+    </httpSample>
+    <httpSample t="22073" it="0" lt="2361" ct="1498" ts="1601829174952" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-21" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="248770" sby="510" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+  </httpSample>
+  <httpSample t="8260" it="0" lt="7893" ct="7449" ts="1601829209988" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600440657947" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1319" sby="629" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600440657947</java.net.URL>
+  </httpSample>
+  <httpSample t="779" it="0" lt="415" ct="0" ts="1601829218254" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2669" sby="605" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951</java.net.URL>
+  </httpSample>
+  <httpSample t="1042" it="0" lt="707" ct="0" ts="1601829219035" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2840" sby="598" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995</java.net.URL>
+  </httpSample>
+  <httpSample t="445" it="0" lt="445" ct="0" ts="1601829220078" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1257" sby="597" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997</java.net.URL>
+  </httpSample>
+  <httpSample t="803" it="0" lt="438" ct="0" ts="1601829220527" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="5127" sby="615" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999</java.net.URL>
+  </httpSample>
+  <httpSample t="564" it="0" lt="564" ct="0" ts="1601829221332" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="845" sby="738" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="86717" it="19" lt="0" ct="3253" ts="1601829140834" s="true" lb="Login username and password" rc="200" rm="Number of samples in transaction : 7, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="6405848" sby="17621" ng="5" na="5">
+  <httpSample t="81658" it="0" lt="1933" ct="1421" ts="1601829140838" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="6391791" sby="13839" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1933" it="0" lt="1933" ct="1421" ts="1601829140838" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-0" rc="302" rm="Found" tn="Thread Group 1-5" dt="" by="906" sby="796" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc:8443/users/authenticate</java.net.URL>
+    </httpSample>
+    <httpSample t="2722" it="0" lt="2722" ct="1431" ts="1601829142774" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-1" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="1738" sby="1106" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/auth_callback?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbiI6InN1cnlha2FudGtrIiwidXNlcl9pZCI6NDM2MTMsInNzb19wcm92aWRlcl9uYW1lIjoiIiwic3NvX2lkZW50aWZpZXIiOiIiLCJjbHVzdGVyX2lkIjotMSwicG9ydGZvbGlvX2lkIjoic3luZXJ6aXAxIiwidGltZV96b25lIjowLCJlbWFpbCI6IiIsImdpdmVuX25hbWUiOiIiLCJmYW1pbHlfbmFtZSI6IiIsInJldHVybl90byI6IiIsImF1ZCI6Imh0dHBzOi8vcHJkc3ByaW50LmFzc2VtYmxhLmNjIiwiZXhwIjoxNjAxODI5MzEwLCJqdGkiOiJjMjYwNjZjYi02MjRhLTQ3ZGEtOWM4ZC03MTYyMjI0NjE4YzAiLCJpYXQiOjE2MDE4MjkxMzAsImlzcyI6ImF1dGgtc3ZjIn0.3urRFIzYK3cEOysK95uTTM34imBsjSPy_FwTf_ONH9Q</java.net.URL>
+    </httpSample>
+    <httpSample t="2057" it="0" lt="2056" ct="1641" ts="1601829145501" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-2" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="1302" sby="728" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/start</java.net.URL>
+    </httpSample>
+    <httpSample t="2788" it="0" lt="1906" ct="0" ts="1601829147559" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-3" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="38923" sby="748" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="3877" it="0" lt="3877" ct="1614" ts="1601829150362" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-4" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="1787" sby="632" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2285" it="0" lt="2285" ct="1586" ts="1601829150370" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-5" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="930" sby="632" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="3787" it="0" lt="3213" ct="1589" ts="1601829150367" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-6" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="92197" sby="563" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3340" it="0" lt="2430" ct="1589" ts="1601829150367" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-7" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="41296" sby="591" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/sections/portfolio_manager/portfolio_manager-ad2606171f2e031af0712c2b2de81b673ac7905b5d99957d6e9ac6ad349c67a8.css</java.net.URL>
+    </httpSample>
+    <httpSample t="6671" it="0" lt="2436" ct="1592" ts="1601829150364" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-8" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="232903" sby="552" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3923" it="0" lt="480" ct="0" ts="1601829150363" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-9" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="257008" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="855" it="0" lt="855" ct="0" ts="1601829152656" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-10" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3102" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="29285" it="0" lt="714" ct="0" ts="1601829153514" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-11" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1120348" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/base-7f9650cceefd0b8e85a356e73946ec0070451f086c41fe55b13f9242e3e89528.js</java.net.URL>
+    </httpSample>
+    <httpSample t="68716" it="0" lt="3568" ct="3037" ts="1601829153780" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-12" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2151391" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="5521" it="0" lt="3561" ct="2841" ts="1601829154190" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-13" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="43524" sby="578" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="3250" it="0" lt="3250" ct="2814" ts="1601829154244" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-14" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4914" sby="561" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="42170" it="0" lt="5440" ct="3221" ts="1601829154288" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-15" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1032206" sby="572" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="64223" it="0" lt="27317" ct="26322" ts="1601829157037" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-16" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="967421" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="11453" it="0" lt="4868" ct="2492" ts="1601829157494" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-17" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="140581" sby="582" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/portfolio_manager/new_start-16244c8555b74269d65bde8e9445a7d6ed595a11a4871489f5c56a32b222b720.js</java.net.URL>
+    </httpSample>
+    <httpSample t="21126" it="0" lt="21125" ct="20318" ts="1601829159710" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-18" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="2138" sby="626" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1910" it="0" lt="1910" ct="0" ts="1601829168949" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-19" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="3571" sby="631" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="597" it="0" lt="597" ct="0" ts="1601829170860" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-20" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="4835" sby="624" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/avatars/big/5-31313161366635306264363765353264616236326362666565616638393830653434396536626437666664636535613964356336343234313436363835373731.png</java.net.URL>
+    </httpSample>
+    <httpSample t="8103" it="0" lt="1901" ct="1410" ts="1601829171458" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-21" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="248770" sby="510" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+  </httpSample>
+  <httpSample t="2279" it="0" lt="2279" ct="1832" ts="1601829222498" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600440657947" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1319" sby="629" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600440657947</java.net.URL>
+  </httpSample>
+  <httpSample t="414" it="0" lt="414" ct="0" ts="1601829224780" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2669" sby="605" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951</java.net.URL>
+  </httpSample>
+  <httpSample t="724" it="0" lt="724" ct="0" ts="1601829225196" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2840" sby="598" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995</java.net.URL>
+  </httpSample>
+  <httpSample t="391" it="0" lt="390" ct="0" ts="1601829225922" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1257" sby="597" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997</java.net.URL>
+  </httpSample>
+  <httpSample t="462" it="0" lt="460" ct="0" ts="1601829226316" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="5127" sby="615" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999</java.net.URL>
+  </httpSample>
+  <httpSample t="789" it="0" lt="788" ct="0" ts="1601829226781" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="845" sby="738" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="94548" it="22" lt="0" ct="3431" ts="1601829141105" s="true" lb="Login username and password" rc="200" rm="Number of samples in transaction : 7, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="6404009" sby="17823" ng="5" na="5">
+  <httpSample t="85513" it="0" lt="1666" ct="1149" ts="1601829141107" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="6389952" sby="14041" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1666" it="0" lt="1666" ct="1149" ts="1601829141107" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-0" rc="302" rm="Found" tn="Thread Group 1-3" dt="" by="906" sby="796" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc:8443/users/authenticate</java.net.URL>
+    </httpSample>
+    <httpSample t="2718" it="0" lt="2718" ct="1401" ts="1601829142773" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-1" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="1738" sby="1106" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/auth_callback?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbiI6InN1cnlha2FudGtrIiwidXNlcl9pZCI6NDM2MTMsInNzb19wcm92aWRlcl9uYW1lIjoiIiwic3NvX2lkZW50aWZpZXIiOiIiLCJjbHVzdGVyX2lkIjotMSwicG9ydGZvbGlvX2lkIjoic3luZXJ6aXAxIiwidGltZV96b25lIjowLCJlbWFpbCI6IiIsImdpdmVuX25hbWUiOiIiLCJmYW1pbHlfbmFtZSI6IiIsInJldHVybl90byI6IiIsImF1ZCI6Imh0dHBzOi8vcHJkc3ByaW50LmFzc2VtYmxhLmNjIiwiZXhwIjoxNjAxODI5MzEwLCJqdGkiOiI3MTQyYzZmZC1iZTM1LTQ0MGUtOWIzMS1lMTRkZjQzMTk4MDAiLCJpYXQiOjE2MDE4MjkxMzAsImlzcyI6ImF1dGgtc3ZjIn0.RkkP6E1Z3R8qfL3h6yLOBhm4csGZM0VdLTfG3Q5tG6s</java.net.URL>
+    </httpSample>
+    <httpSample t="2088" it="0" lt="2087" ct="1673" ts="1601829145494" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-2" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="1302" sby="728" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/start</java.net.URL>
+    </httpSample>
+    <httpSample t="4213" it="0" lt="2609" ct="0" ts="1601829147584" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-3" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="38923" sby="748" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="613" it="0" lt="0" ct="0" ts="1601829151841" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-4" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="439" sby="733" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="669" it="0" lt="0" ct="0" ts="1601829151843" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-5" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="439" sby="733" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2595" it="0" lt="2110" ct="0" ts="1601829151849" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-6" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="92197" sby="563" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3463" it="0" lt="2814" ct="2112" ts="1601829151847" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-7" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="41296" sby="591" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/sections/portfolio_manager/portfolio_manager-ad2606171f2e031af0712c2b2de81b673ac7905b5d99957d6e9ac6ad349c67a8.css</java.net.URL>
+    </httpSample>
+    <httpSample t="8124" it="0" lt="2168" ct="0" ts="1601829151847" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-8" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="232903" sby="552" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="11021" it="0" lt="3397" ct="2655" ts="1601829151854" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-9" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="257008" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2448" it="0" lt="2448" ct="1871" ts="1601829152455" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-10" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3102" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="30121" it="0" lt="4591" ct="1849" ts="1601829152513" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-11" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1120348" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/base-7f9650cceefd0b8e85a356e73946ec0070451f086c41fe55b13f9242e3e89528.js</java.net.URL>
+    </httpSample>
+    <httpSample t="72173" it="0" lt="5937" ct="4960" ts="1601829154447" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-12" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2151391" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="7650" it="0" lt="7132" ct="5985" ts="1601829154909" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-13" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="43524" sby="578" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="4787" it="0" lt="4787" ct="4092" ts="1601829155310" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-14" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4914" sby="561" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="63104" it="0" lt="9874" ct="4509" ts="1601829160102" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-15" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1032206" sby="572" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="40500" it="0" lt="2239" ct="0" ts="1601829160423" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-16" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="967421" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="9519" it="0" lt="1841" ct="0" ts="1601829162560" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-17" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="140581" sby="582" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/portfolio_manager/new_start-16244c8555b74269d65bde8e9445a7d6ed595a11a4871489f5c56a32b222b720.js</java.net.URL>
+    </httpSample>
+    <httpSample t="9516" it="0" lt="9516" ct="9022" ts="1601829162878" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-18" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="2138" sby="626" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="445" it="0" lt="445" ct="0" ts="1601829172080" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-19" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="3571" sby="631" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="487" it="0" lt="487" ct="0" ts="1601829172396" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-20" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="4835" sby="624" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/big/5-31313161366635306264363765353264616236326362666565616638393830653434396536626437666664636535613964356336343234313436363835373731.png</java.net.URL>
+    </httpSample>
+    <httpSample t="11699" it="0" lt="1041" ct="707" ts="1601829172526" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-21" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="248770" sby="510" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+  </httpSample>
+  <httpSample t="3395" it="0" lt="3395" ct="2282" ts="1601829226625" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600440657947" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1319" sby="629" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600440657947</java.net.URL>
+  </httpSample>
+  <httpSample t="1026" it="0" lt="1025" ct="0" ts="1601829230023" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2669" sby="605" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951</java.net.URL>
+  </httpSample>
+  <httpSample t="1257" it="0" lt="1257" ct="0" ts="1601829231051" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2840" sby="598" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995</java.net.URL>
+  </httpSample>
+  <httpSample t="939" it="0" lt="939" ct="0" ts="1601829232311" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1257" sby="597" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997</java.net.URL>
+  </httpSample>
+  <httpSample t="2003" it="0" lt="2003" ct="0" ts="1601829233254" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="5127" sby="615" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999</java.net.URL>
+  </httpSample>
+  <httpSample t="415" it="0" lt="415" ct="0" ts="1601829235258" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="845" sby="738" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="111591" it="28" lt="0" ct="2640" ts="1601829140896" s="true" lb="Login username and password" rc="200" rm="Number of samples in transaction : 7, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="6405848" sby="17621" ng="5" na="5">
+  <httpSample t="103602" it="0" lt="1875" ct="1392" ts="1601829140897" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="6391791" sby="13839" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1875" it="0" lt="1875" ct="1392" ts="1601829140897" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-0" rc="302" rm="Found" tn="Thread Group 1-4" dt="" by="906" sby="796" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc:8443/users/authenticate</java.net.URL>
+    </httpSample>
+    <httpSample t="2716" it="0" lt="2716" ct="1408" ts="1601829142775" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-1" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="1738" sby="1106" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/auth_callback?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbiI6InN1cnlha2FudGtrIiwidXNlcl9pZCI6NDM2MTMsInNzb19wcm92aWRlcl9uYW1lIjoiIiwic3NvX2lkZW50aWZpZXIiOiIiLCJjbHVzdGVyX2lkIjotMSwicG9ydGZvbGlvX2lkIjoic3luZXJ6aXAxIiwidGltZV96b25lIjowLCJlbWFpbCI6IiIsImdpdmVuX25hbWUiOiIiLCJmYW1pbHlfbmFtZSI6IiIsInJldHVybl90byI6IiIsImF1ZCI6Imh0dHBzOi8vcHJkc3ByaW50LmFzc2VtYmxhLmNjIiwiZXhwIjoxNjAxODI5MzEwLCJqdGkiOiI3Yzk2MjY0Mi1hY2UyLTQ1ZTUtOTU4ZC00YjJkNzNmZGFmOGYiLCJpYXQiOjE2MDE4MjkxMzAsImlzcyI6ImF1dGgtc3ZjIn0.Kb6wvo3xTAUfPFuqRN7GWdFXaXNJy5BIntiwhdmMx68</java.net.URL>
+    </httpSample>
+    <httpSample t="2110" it="0" lt="2110" ct="1670" ts="1601829145498" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-2" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="1302" sby="728" ng="5" na="5">
+      <java.net.URL>https://prdsprint.assembla.cc/start</java.net.URL>
+    </httpSample>
+    <httpSample t="7186" it="0" lt="3821" ct="0" ts="1601829147610" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-3" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="38923" sby="748" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="3485" it="0" lt="3485" ct="0" ts="1601829154808" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-4" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="1787" sby="632" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="16761" it="0" lt="16761" ct="16138" ts="1601829154813" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-5" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="930" sby="632" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="4763" it="0" lt="2343" ct="0" ts="1601829154828" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-6" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="92197" sby="563" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2885" it="0" lt="2372" ct="0" ts="1601829154822" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-7" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="41296" sby="591" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/sections/portfolio_manager/portfolio_manager-ad2606171f2e031af0712c2b2de81b673ac7905b5d99957d6e9ac6ad349c67a8.css</java.net.URL>
+    </httpSample>
+    <httpSample t="16837" it="0" lt="5114" ct="3356" ts="1601829154819" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-8" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="232903" sby="552" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="13742" it="0" lt="2310" ct="0" ts="1601829154817" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-9" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="257008" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3993" it="0" lt="3993" ct="3255" ts="1601829157708" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-10" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3102" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="39164" it="0" lt="17087" ct="16638" ts="1601829158295" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-11" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1120348" sby="559" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/base-7f9650cceefd0b8e85a356e73946ec0070451f086c41fe55b13f9242e3e89528.js</java.net.URL>
+    </httpSample>
+    <httpSample t="84905" it="0" lt="8928" ct="5712" ts="1601829159593" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-12" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2151391" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="7634" it="0" lt="6764" ct="2348" ts="1601829161703" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-13" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="43524" sby="578" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="4942" it="0" lt="4942" ct="4418" ts="1601829168567" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-14" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4914" sby="561" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="54826" it="0" lt="2539" ct="0" ts="1601829169339" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-15" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1032206" sby="572" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="19052" it="0" lt="1451" ct="1147" ts="1601829171575" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-16" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="967421" sby="565" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="6085" it="0" lt="3654" ct="2311" ts="1601829171659" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-17" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="140581" sby="582" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/portfolio_manager/new_start-16244c8555b74269d65bde8e9445a7d6ed595a11a4871489f5c56a32b222b720.js</java.net.URL>
+    </httpSample>
+    <httpSample t="3897" it="0" lt="3897" ct="3148" ts="1601829173510" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-18" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="2138" sby="626" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="602" it="0" lt="602" ct="0" ts="1601829177408" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-19" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="3571" sby="631" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="557" it="0" lt="557" ct="0" ts="1601829177744" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-20" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="4835" sby="624" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/big/5-31313161366635306264363765353264616236326362666565616638393830653434396536626437666664636535613964356336343234313436363835373731.png</java.net.URL>
+    </httpSample>
+    <httpSample t="40900" it="0" lt="2489" ct="1854" ts="1601829178011" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-21" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="248770" sby="510" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+  </httpSample>
+  <httpSample t="3863" it="0" lt="3863" ct="1248" ts="1601829244514" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600440657947" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1319" sby="629" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600440657947</java.net.URL>
+  </httpSample>
+  <httpSample t="611" it="0" lt="611" ct="0" ts="1601829248380" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2669" sby="605" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951</java.net.URL>
+  </httpSample>
+  <httpSample t="1126" it="0" lt="1126" ct="0" ts="1601829248992" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2840" sby="598" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995</java.net.URL>
+  </httpSample>
+  <httpSample t="1004" it="0" lt="1004" ct="0" ts="1601829250121" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1257" sby="597" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997</java.net.URL>
+  </httpSample>
+  <httpSample t="966" it="0" lt="966" ct="0" ts="1601829251129" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="5127" sby="615" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999</java.net.URL>
+  </httpSample>
+  <httpSample t="419" it="0" lt="419" ct="0" ts="1601829252096" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="845" sby="738" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="34431" it="20" lt="0" ct="0" ts="1601829221903" s="true" lb="Select Space" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="6357356" sby="19334" ng="5" na="5">
+  <httpSample t="25212" it="0" lt="462" ct="0" ts="1601829221903" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="6212692" sby="10408" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="462" it="0" lt="462" ct="0" ts="1601829221903" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-0" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="1438" sby="676" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint</java.net.URL>
+    </httpSample>
+    <httpSample t="3707" it="0" lt="871" ct="0" ts="1601829222365" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="68300" sby="698" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+    </httpSample>
+    <httpSample t="681" it="0" lt="681" ct="517" ts="1601829226099" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-2" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="539" it="0" lt="0" ct="438" ts="1601829226105" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-3" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="439" sby="635" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="536" it="0" lt="0" ct="438" ts="1601829226104" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-4" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="506" sby="555" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2620" it="0" lt="709" ct="514" ts="1601829226101" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-5" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="257008" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="685" it="0" lt="684" ct="516" ts="1601829226101" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-6" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3102" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="20439" it="0" lt="584" ct="440" ts="1601829226103" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-7" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2151391" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2159" it="0" lt="1574" ct="1022" ts="1601829226640" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-8" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="43524" sby="480" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1468" it="0" lt="1468" ct="981" ts="1601829226645" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-9" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4914" sby="463" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="10458" it="0" lt="1895" ct="1226" ts="1601829226781" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-10" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1032206" sby="474" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="7954" it="0" lt="2152" ct="1608" ts="1601829227035" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-11" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="967421" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="19002" it="0" lt="1149" ct="0" ts="1601829228114" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-12" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1553384" sby="485" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/spaces/tickets/realtime_list-526a774fe56609bc58dc0b2725e5fd6a9e76eccc58b2f7d683cf6ae724c91c04.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1118" it="0" lt="511" ct="0" ts="1601829228800" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-13" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="77851" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/calendar-831142da4b6c9d73f071de937a2f3187117d316c290598051d212efdf3920ca9.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2217" it="0" lt="2217" ct="1496" ts="1601829228915" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-14" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2350" sby="472" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/widgets/calendar/lang/en-e52e0f922ab49e314eaabdcfd509ea57d7b7a7e1553330431df29e748594d72b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="3749" it="0" lt="3423" ct="2022" ts="1601829229919" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-15" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="40410" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/cloud_fs-c5506db6d0d8f79409064369c28c06ad7d7c272e8296031d6a19df2a6c4ee250.js</java.net.URL>
+    </httpSample>
+    <httpSample t="736" it="0" lt="0" ct="0" ts="1601829231135" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-16" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="506" sby="629" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2835" it="0" lt="2835" ct="2342" ts="1601829231872" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-17" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="3571" sby="533" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="721" it="0" lt="721" ct="0" ts="1601829233669" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-18" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2299" sby="475" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/new_navigation_quick_access-c305b882dff08f051913cc42035f69cf10c2e799f2f853a2da075e743c2dd80b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="369" it="0" lt="0" ct="0" ts="1601829234391" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-19" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="285" sby="513" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+  </httpSample>
+  <httpSample t="725" it="0" lt="725" ct="0" ts="1601829247119" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600445380517" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1319" sby="652" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600445380517</java.net.URL>
+  </httpSample>
+  <httpSample t="654" it="0" lt="654" ct="0" ts="1601829247845" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2669" sby="628" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525</java.net.URL>
+  </httpSample>
+  <httpSample t="671" it="0" lt="670" ct="0" ts="1601829248502" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1293" sby="649" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586</java.net.URL>
+  </httpSample>
+  <httpSample t="2248" it="0" lt="1256" ct="0" ts="1601829249176" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="18422" sby="672" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592</java.net.URL>
+  </httpSample>
+  <httpSample t="785" it="0" lt="785" ct="0" ts="1601829251425" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2998" sby="696" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595</java.net.URL>
+  </httpSample>
+  <httpSample t="601" it="0" lt="595" ct="0" ts="1601829252211" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="12304" sby="647" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606</java.net.URL>
+  </httpSample>
+  <httpSample t="628" it="0" lt="618" ct="0" ts="1601829252815" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22160" sby="657" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608</java.net.URL>
+  </httpSample>
+  <httpSample t="437" it="0" lt="437" ct="0" ts="1601829253445" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="973" sby="778" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+  <httpSample t="2470" it="0" lt="721" ct="0" ts="1601829253883" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="82526" sby="3547" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="6884" it="9" lt="0" ct="0" ts="1601829256391" s="true" lb="Select None" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="150079" sby="10263" ng="5" na="5">
+  <httpSample t="943" it="0" lt="523" ct="0" ts="1601829256393" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21083" sby="683" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640</java.net.URL>
+  </httpSample>
+  <httpSample t="2777" it="0" lt="665" ct="0" ts="1601829257340" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="64498" sby="4790" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+  <httpSample t="3164" it="0" lt="753" ct="0" ts="1601829260119" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="64498" sby="4790" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="3327" it="2" lt="0" ct="0" ts="1601829263284" s="true" lb="Logout" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="352307" sby="6743" ng="5" na="5">
+  <httpSample t="3327" it="0" lt="738" ct="0" ts="1601829263285" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="352307" sby="6743" ng="5" na="5">
+    <httpSample t="738" it="0" lt="738" ct="0" ts="1601829263285" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-0" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="1527" sby="656" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/logout</java.net.URL>
+    </httpSample>
+    <httpSample t="435" it="0" lt="434" ct="0" ts="1601829264026" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-1" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="1105" sby="561" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="836" it="0" lt="452" ct="0" ts="1601829264461" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-2" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="13627" sby="582" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="168" it="0" lt="0" ct="0" ts="1601829265301" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-3" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="439" sby="635" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="160" it="0" lt="160" ct="0" ts="1601829265301" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-4" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1310" it="0" lt="1012" ct="569" ts="1601829265302" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-5" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="51524" sby="593" ng="5" na="5">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="643" it="0" lt="0" ct="482" ts="1601829265302" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-6" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="439" sby="566" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="1067" it="0" lt="675" ct="480" ts="1601829265304" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-7" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="148545" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="164" it="0" lt="164" ct="0" ts="1601829265301" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-8" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4764" sby="529" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="159" it="0" lt="0" ct="0" ts="1601829265462" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-9" rc="304" rm="Not Modified" tn="Thread Group 1-2" dt="" by="439" sby="630" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="147" it="0" lt="147" ct="0" ts="1601829265466" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-10" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="4658" sby="528" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="1131" it="0" lt="837" ct="617" ts="1601829265470" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-11" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="124310" sby="462" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="40497" it="16" lt="0" ct="0" ts="1601829227574" s="true" lb="Select Space" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="6588451" sby="19334" ng="4" na="4">
+  <httpSample t="26751" it="0" lt="855" ct="0" ts="1601829227575" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="6443787" sby="10408" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="856" it="0" lt="855" ct="0" ts="1601829227575" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-0" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="1438" sby="676" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint</java.net.URL>
+    </httpSample>
+    <httpSample t="8375" it="0" lt="1170" ct="0" ts="1601829228432" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="68300" sby="698" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+    </httpSample>
+    <httpSample t="893" it="0" lt="0" ct="692" ts="1601829236832" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-2" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="485" sby="635" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="856" it="0" lt="0" ct="679" ts="1601829236829" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-3" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="439" sby="635" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="3120" it="0" lt="892" ct="673" ts="1601829236835" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-4" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="232903" sby="454" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3687" it="0" lt="1080" ct="748" ts="1601829236835" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-5" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="257008" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="924" it="0" lt="923" ct="715" ts="1601829236835" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-6" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3102" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="16429" it="0" lt="1091" ct="754" ts="1601829236829" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-7" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2151391" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1989" it="0" lt="1646" ct="1137" ts="1601829237686" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-8" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="43524" sby="480" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1759" it="0" lt="1759" ct="1268" ts="1601829237726" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-9" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4914" sby="463" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="6620" it="0" lt="2364" ct="1310" ts="1601829237760" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-10" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1032206" sby="474" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="4823" it="0" lt="947" ct="0" ts="1601829239490" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-11" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="967421" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="14649" it="0" lt="1691" ct="1168" ts="1601829239676" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-12" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1553384" sby="485" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/spaces/tickets/realtime_list-526a774fe56609bc58dc0b2725e5fd6a9e76eccc58b2f7d683cf6ae724c91c04.js</java.net.URL>
+    </httpSample>
+    <httpSample t="3130" it="0" lt="1758" ct="1102" ts="1601829239958" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-13" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="77851" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/calendar-831142da4b6c9d73f071de937a2f3187117d316c290598051d212efdf3920ca9.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2124" it="0" lt="2124" ct="1622" ts="1601829241126" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-14" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2350" sby="472" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/widgets/calendar/lang/en-e52e0f922ab49e314eaabdcfd509ea57d7b7a7e1553330431df29e748594d72b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2068" it="0" lt="1827" ct="1451" ts="1601829243089" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-15" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="40410" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/cloud_fs-c5506db6d0d8f79409064369c28c06ad7d7c272e8296031d6a19df2a6c4ee250.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1507" it="0" lt="0" ct="1328" ts="1601829243251" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-16" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="506" sby="629" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="257" it="0" lt="257" ct="0" ts="1601829244314" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-17" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="3571" sby="533" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="226" it="0" lt="226" ct="0" ts="1601829244381" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-18" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2299" sby="475" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/new_navigation_quick_access-c305b882dff08f051913cc42035f69cf10c2e799f2f853a2da075e743c2dd80b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2462" it="0" lt="0" ct="2059" ts="1601829244578" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-19" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="285" sby="513" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+  </httpSample>
+  <httpSample t="497" it="0" lt="497" ct="0" ts="1601829254329" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600445380517" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1319" sby="652" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600445380517</java.net.URL>
+  </httpSample>
+  <httpSample t="451" it="0" lt="450" ct="0" ts="1601829254828" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2669" sby="628" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525</java.net.URL>
+  </httpSample>
+  <httpSample t="2066" it="0" lt="2065" ct="0" ts="1601829255280" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1293" sby="649" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586</java.net.URL>
+  </httpSample>
+  <httpSample t="2707" it="0" lt="968" ct="0" ts="1601829257347" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="18422" sby="672" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592</java.net.URL>
+  </httpSample>
+  <httpSample t="1272" it="0" lt="691" ct="0" ts="1601829260055" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2998" sby="696" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595</java.net.URL>
+  </httpSample>
+  <httpSample t="1713" it="0" lt="663" ct="0" ts="1601829261329" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="12304" sby="647" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606</java.net.URL>
+  </httpSample>
+  <httpSample t="1993" it="0" lt="730" ct="0" ts="1601829263043" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="22160" sby="657" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608</java.net.URL>
+  </httpSample>
+  <httpSample t="407" it="0" lt="405" ct="0" ts="1601829265038" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="973" sby="778" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+  <httpSample t="2640" it="0" lt="603" ct="0" ts="1601829265446" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="82526" sby="3547" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="32667" it="20" lt="0" ct="0" ts="1601829235680" s="true" lb="Select Space" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="5554142" sby="19334" ng="4" na="4">
+  <httpSample t="19659" it="0" lt="455" ct="0" ts="1601829235681" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="5409472" sby="10408" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="456" it="0" lt="455" ct="0" ts="1601829235681" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-0" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="1438" sby="676" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint</java.net.URL>
+    </httpSample>
+    <httpSample t="7926" it="0" lt="889" ct="0" ts="1601829236138" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="68300" sby="698" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+    </httpSample>
+    <httpSample t="954" it="0" lt="954" ct="778" ts="1601829244077" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-2" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="910" it="0" lt="910" ct="745" ts="1601829244078" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-3" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2448" it="0" lt="1014" ct="758" ts="1601829244083" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-4" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="232903" sby="454" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="2431" it="0" lt="1013" ct="745" ts="1601829244081" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-5" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="257008" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="925" it="0" lt="925" ct="747" ts="1601829244080" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-6" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3102" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="5235" it="0" lt="940" ct="689" ts="1601829244079" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-7" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2151391" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1495" it="0" lt="1494" ct="781" ts="1601829244989" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-8" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="43524" sby="480" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1938" it="0" lt="0" ct="1579" ts="1601829245007" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-9" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="506" sby="564" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="758" it="0" lt="0" ct="592" ts="1601829245033" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-10" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="506" sby="575" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="7897" it="0" lt="2747" ct="2331" ts="1601829245792" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-11" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="967421" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="8857" it="0" lt="1555" ct="1087" ts="1601829246484" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-12" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1553384" sby="485" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/spaces/tickets/realtime_list-526a774fe56609bc58dc0b2725e5fd6a9e76eccc58b2f7d683cf6ae724c91c04.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2709" it="0" lt="2024" ct="1152" ts="1601829246515" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-13" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="77851" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/calendar-831142da4b6c9d73f071de937a2f3187117d316c290598051d212efdf3920ca9.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1666" it="0" lt="1666" ct="1312" ts="1601829246734" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-14" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2350" sby="472" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/widgets/calendar/lang/en-e52e0f922ab49e314eaabdcfd509ea57d7b7a7e1553330431df29e748594d72b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="589" it="0" lt="487" ct="0" ts="1601829246945" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-15" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="40410" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/cloud_fs-c5506db6d0d8f79409064369c28c06ad7d7c272e8296031d6a19df2a6c4ee250.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1623" it="0" lt="0" ct="1206" ts="1601829247535" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-16" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="506" sby="629" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1286" it="0" lt="1286" ct="997" ts="1601829248400" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-17" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="3571" sby="533" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="207" it="0" lt="207" ct="0" ts="1601829249158" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-18" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2299" sby="475" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/new_navigation_quick_access-c305b882dff08f051913cc42035f69cf10c2e799f2f853a2da075e743c2dd80b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1092" it="0" lt="0" ct="479" ts="1601829249224" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-19" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="285" sby="513" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+  </httpSample>
+  <httpSample t="447" it="0" lt="447" ct="0" ts="1601829255343" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600445380517" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1319" sby="652" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600445380517</java.net.URL>
+  </httpSample>
+  <httpSample t="865" it="0" lt="865" ct="0" ts="1601829255792" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2669" sby="628" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525</java.net.URL>
+  </httpSample>
+  <httpSample t="425" it="0" lt="424" ct="0" ts="1601829256662" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1293" sby="649" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586</java.net.URL>
+  </httpSample>
+  <httpSample t="1359" it="0" lt="524" ct="0" ts="1601829257088" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="18422" sby="672" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592</java.net.URL>
+  </httpSample>
+  <httpSample t="2877" it="0" lt="2877" ct="0" ts="1601829258448" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2998" sby="696" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595</java.net.URL>
+  </httpSample>
+  <httpSample t="1655" it="0" lt="645" ct="0" ts="1601829261327" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="12304" sby="647" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606</java.net.URL>
+  </httpSample>
+  <httpSample t="1485" it="0" lt="674" ct="0" ts="1601829262983" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22166" sby="657" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608</java.net.URL>
+  </httpSample>
+  <httpSample t="430" it="0" lt="430" ct="0" ts="1601829264470" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="973" sby="778" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+  <httpSample t="3465" it="0" lt="600" ct="0" ts="1601829264902" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="82526" sby="3547" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="4093" it="4" lt="0" ct="0" ts="1601829268090" s="true" lb="Select None" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="150079" sby="10263" ng="4" na="4">
+  <httpSample t="558" it="0" lt="539" ct="0" ts="1601829268091" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="21083" sby="683" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640</java.net.URL>
+  </httpSample>
+  <httpSample t="1514" it="0" lt="645" ct="0" ts="1601829268650" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="64498" sby="4790" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+  <httpSample t="2021" it="0" lt="1147" ct="0" ts="1601829270164" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="64498" sby="4790" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="4226" it="5" lt="0" ct="0" ts="1601829268374" s="true" lb="Select None" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="150079" sby="10263" ng="4" na="4">
+  <httpSample t="855" it="0" lt="521" ct="0" ts="1601829268375" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21083" sby="683" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640</java.net.URL>
+  </httpSample>
+  <httpSample t="1468" it="0" lt="625" ct="0" ts="1601829269232" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="64498" sby="4790" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+  <httpSample t="1903" it="0" lt="700" ct="0" ts="1601829270700" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="64498" sby="4790" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="21639" it="19" lt="0" ct="0" ts="1601829252518" s="true" lb="Select Space" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="6333749" sby="19233" ng="4" na="4">
+  <httpSample t="12669" it="0" lt="424" ct="0" ts="1601829252519" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="6189085" sby="10307" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="424" it="0" lt="424" ct="0" ts="1601829252519" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-0" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="1438" sby="676" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint</java.net.URL>
+    </httpSample>
+    <httpSample t="4470" it="0" lt="1591" ct="0" ts="1601829252944" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="68307" sby="698" ng="5" na="5">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+    </httpSample>
+    <httpSample t="645" it="0" lt="645" ct="477" ts="1601829257432" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-2" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="1787" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="634" it="0" lt="634" ct="470" ts="1601829257426" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-3" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="930" sby="534" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1882" it="0" lt="965" ct="509" ts="1601829257428" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-4" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="232903" sby="454" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="698" it="0" lt="0" ct="519" ts="1601829257430" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-5" rc="304" rm="Not Modified" tn="Thread Group 1-4" dt="" by="506" sby="562" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="653" it="0" lt="653" ct="486" ts="1601829257431" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-6" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3102" sby="461" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="4468" it="0" lt="848" ct="479" ts="1601829257431" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-7" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2151391" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1066" it="0" lt="754" ct="503" ts="1601829258060" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-8" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="43524" sby="480" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="682" it="0" lt="682" ct="500" ts="1601829258077" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-9" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4914" sby="463" ng="5" na="5">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="7102" it="0" lt="724" ct="489" ts="1601829258086" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-10" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1032206" sby="474" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="4311" it="0" lt="1042" ct="524" ts="1601829258129" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-11" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="967421" sby="467" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="4284" it="0" lt="1357" ct="883" ts="1601829258760" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-12" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1553384" sby="485" ng="5" na="5">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/spaces/tickets/realtime_list-526a774fe56609bc58dc0b2725e5fd6a9e76eccc58b2f7d683cf6ae724c91c04.js</java.net.URL>
+    </httpSample>
+    <httpSample t="716" it="0" lt="320" ct="0" ts="1601829259127" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-13" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="77851" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/calendar-831142da4b6c9d73f071de937a2f3187117d316c290598051d212efdf3920ca9.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2249" it="0" lt="2249" ct="1936" ts="1601829259312" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-14" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2350" sby="472" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/widgets/calendar/lang/en-e52e0f922ab49e314eaabdcfd509ea57d7b7a7e1553330431df29e748594d72b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="531" it="0" lt="462" ct="0" ts="1601829259844" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-15" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="40410" sby="465" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/cloud_fs-c5506db6d0d8f79409064369c28c06ad7d7c272e8296031d6a19df2a6c4ee250.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1183" it="0" lt="0" ct="868" ts="1601829260375" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-16" rc="304" rm="Not Modified" tn="Thread Group 1-4" dt="" by="506" sby="629" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="324" it="0" lt="324" ct="0" ts="1601829261558" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-17" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="3571" sby="533" ng="5" na="5">
+      <java.net.URL>https://assets3.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="325" it="0" lt="325" ct="0" ts="1601829261562" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-18" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2299" sby="475" ng="5" na="5">
+      <java.net.URL>https://assets1.assembla.cc/assets/new_navigation_quick_access-c305b882dff08f051913cc42035f69cf10c2e799f2f853a2da075e743c2dd80b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1688" it="0" lt="0" ct="1514" ts="1601829261882" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-19" rc="304" rm="Not Modified" tn="Thread Group 1-4" dt="" by="285" sby="513" ng="5" na="5">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+  </httpSample>
+  <httpSample t="460" it="0" lt="460" ct="0" ts="1601829265192" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600445380517" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1319" sby="652" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600445380517</java.net.URL>
+  </httpSample>
+  <httpSample t="440" it="0" lt="440" ct="0" ts="1601829265653" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2669" sby="628" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525</java.net.URL>
+  </httpSample>
+  <httpSample t="422" it="0" lt="422" ct="0" ts="1601829266094" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1293" sby="649" ng="5" na="5">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586</java.net.URL>
+  </httpSample>
+  <httpSample t="891" it="0" lt="471" ct="0" ts="1601829266517" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="18422" sby="672" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592</java.net.URL>
+  </httpSample>
+  <httpSample t="436" it="0" lt="436" ct="0" ts="1601829267409" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2998" sby="696" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595</java.net.URL>
+  </httpSample>
+  <httpSample t="893" it="0" lt="490" ct="0" ts="1601829267849" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="12304" sby="647" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606</java.net.URL>
+  </httpSample>
+  <httpSample t="995" it="0" lt="592" ct="0" ts="1601829268744" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="22160" sby="657" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608</java.net.URL>
+  </httpSample>
+  <httpSample t="430" it="0" lt="430" ct="0" ts="1601829269739" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="973" sby="778" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+  <httpSample t="4003" it="0" lt="1267" ct="0" ts="1601829270170" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="82526" sby="3547" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="3128" it="2" lt="0" ct="0" ts="1601829272187" s="true" lb="Logout" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="352339" sby="6743" ng="4" na="4">
+  <httpSample t="3128" it="0" lt="680" ct="0" ts="1601829272188" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="352339" sby="6743" ng="4" na="4">
+    <httpSample t="680" it="0" lt="680" ct="0" ts="1601829272188" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-0" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="1527" sby="656" ng="4" na="4">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/logout</java.net.URL>
+    </httpSample>
+    <httpSample t="423" it="0" lt="423" ct="0" ts="1601829272872" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-1" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="1105" sby="561" ng="4" na="4">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="883" it="0" lt="509" ct="0" ts="1601829273297" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-2" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="13627" sby="582" ng="4" na="4">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="553" it="0" lt="553" ct="395" ts="1601829274193" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-3" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="1787" sby="534" ng="4" na="4">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="157" it="0" lt="0" ct="0" ts="1601829274192" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-4" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="439" sby="635" ng="4" na="4">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1123" it="0" lt="894" ct="495" ts="1601829274193" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-5" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="51524" sby="593" ng="4" na="4">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="156" it="0" lt="0" ct="0" ts="1601829274193" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-6" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="439" sby="566" ng="4" na="4">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="540" it="0" lt="163" ct="0" ts="1601829274194" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-7" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="148545" sby="467" ng="4" na="4">
+      <java.net.URL>https://assets2.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="164" it="0" lt="163" ct="0" ts="1601829274192" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-8" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="4764" sby="529" ng="4" na="4">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="606" it="0" lt="606" ct="477" ts="1601829274350" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-9" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3833" sby="529" ng="4" na="4">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="591" it="0" lt="0" ct="475" ts="1601829274350" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-10" rc="304" rm="Not Modified" tn="Thread Group 1-5" dt="" by="439" sby="629" ng="4" na="4">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="848" it="0" lt="584" ct="423" ts="1601829274357" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-11" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="124310" sby="462" ng="4" na="4">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="3093" it="1" lt="0" ct="0" ts="1601829272605" s="true" lb="Logout" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="321089" sby="6743" ng="3" na="3">
+  <httpSample t="3093" it="0" lt="660" ct="0" ts="1601829272606" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="321089" sby="6743" ng="3" na="3">
+    <httpSample t="660" it="0" lt="660" ct="0" ts="1601829272606" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-0" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="1527" sby="656" ng="3" na="3">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/logout</java.net.URL>
+    </httpSample>
+    <httpSample t="431" it="0" lt="431" ct="0" ts="1601829273269" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-1" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="1105" sby="561" ng="3" na="3">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="774" it="0" lt="391" ct="0" ts="1601829273702" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-2" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="13627" sby="582" ng="3" na="3">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="159" it="0" lt="159" ct="0" ts="1601829274479" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-3" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="1787" sby="534" ng="3" na="3">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="139" it="0" lt="0" ct="0" ts="1601829274480" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-4" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="439" sby="635" ng="3" na="3">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="1217" it="0" lt="985" ct="573" ts="1601829274480" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-5" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="51516" sby="593" ng="3" na="3">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="395" it="0" lt="200" ct="0" ts="1601829274487" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-6" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="92197" sby="465" ng="3" na="3">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="976" it="0" lt="619" ct="454" ts="1601829274488" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-7" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="148545" sby="467" ng="3" na="3">
+      <java.net.URL>https://assets3.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="545" it="0" lt="545" ct="428" ts="1601829274488" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-8" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4764" sby="529" ng="3" na="3">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="522" it="0" lt="0" ct="385" ts="1601829274619" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-9" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="485" sby="630" ng="3" na="3">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="566" it="0" lt="566" ct="427" ts="1601829274639" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-10" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="4658" sby="528" ng="3" na="3">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="645" it="0" lt="0" ct="544" ts="1601829275054" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-11" rc="304" rm="Not Modified" tn="Thread Group 1-3" dt="" by="439" sby="563" ng="3" na="3">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="6289" it="7" lt="0" ct="0" ts="1601829274181" s="true" lb="Select None" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="150079" sby="10263" ng="2" na="2">
+  <httpSample t="896" it="0" lt="523" ct="0" ts="1601829274183" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="21083" sby="683" ng="4" na="4">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640</java.net.URL>
+  </httpSample>
+  <httpSample t="2697" it="0" lt="602" ct="0" ts="1601829275080" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="64498" sby="4790" ng="2" na="2">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+  <httpSample t="2696" it="0" lt="595" ct="0" ts="1601829277779" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="64498" sby="4790" ng="2" na="2">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="5031" it="2" lt="0" ct="0" ts="1601829280479" s="true" lb="Logout" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="208498" sby="6743" ng="2" na="2">
+  <httpSample t="5031" it="0" lt="713" ct="0" ts="1601829280480" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="208498" sby="6743" ng="2" na="2">
+    <httpSample t="713" it="0" lt="713" ct="0" ts="1601829280480" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-0" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="1527" sby="656" ng="2" na="2">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/logout</java.net.URL>
+    </httpSample>
+    <httpSample t="428" it="0" lt="422" ct="0" ts="1601829281195" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-1" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="1105" sby="561" ng="2" na="2">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="1322" it="0" lt="858" ct="0" ts="1601829281625" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-2" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="13627" sby="582" ng="2" na="2">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="1688" it="0" lt="1688" ct="1519" ts="1601829282958" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-3" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="1787" sby="534" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="965" it="0" lt="0" ct="796" ts="1601829282959" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-4" rc="304" rm="Not Modified" tn="Thread Group 1-4" dt="" by="485" sby="635" ng="2" na="2">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2118" it="0" lt="1694" ct="1242" ts="1601829282966" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-5" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="51524" sby="593" ng="2" na="2">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="1359" it="0" lt="0" ct="599" ts="1601829282965" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-6" rc="304" rm="Not Modified" tn="Thread Group 1-4" dt="" by="439" sby="566" ng="2" na="2">
+      <java.net.URL>https://assets2.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="231" it="0" lt="0" ct="0" ts="1601829282962" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-7" rc="304" rm="Not Modified" tn="Thread Group 1-4" dt="" by="439" sby="568" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="1542" it="0" lt="1542" ct="603" ts="1601829282960" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-8" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4764" sby="529" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="1167" it="0" lt="1167" ct="977" ts="1601829283197" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-9" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3833" sby="529" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="682" it="0" lt="682" ct="523" ts="1601829283926" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-10" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="4658" sby="528" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="1186" it="0" lt="700" ct="498" ts="1601829284325" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-11" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="124310" sby="462" ng="2" na="2">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="148941" it="36" lt="0" ct="2631" ts="1601829140858" s="false" lb="Login username and password" rc="200" rm="Number of samples in transaction : 7, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="5283561" sby="17251" ng="1" na="1">
+  <httpSample t="144648" it="0" lt="1893" ct="1379" ts="1601829140878" s="false" lb="https://prdsprint.assembla.cc:8443/users/authenticate" rc="200" rm="Embedded resource download error:https://assets0.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js code:Non HTTP response code: java.net.SocketException message:Non HTTP response message: Socket closed, " tn="Thread Group 1-1" dt="text" by="5269504" sby="13469" ng="2" na="2">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1893" it="0" lt="1893" ct="1379" ts="1601829140878" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-0" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="906" sby="796" ng="2" na="2">
+      <java.net.URL>https://prdsprint.assembla.cc:8443/users/authenticate</java.net.URL>
+    </httpSample>
+    <httpSample t="2721" it="0" lt="2720" ct="1436" ts="1601829142771" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-1" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="1738" sby="1106" ng="2" na="2">
+      <java.net.URL>https://prdsprint.assembla.cc/auth_callback?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbiI6InN1cnlha2FudGtrIiwidXNlcl9pZCI6NDM2MTMsInNzb19wcm92aWRlcl9uYW1lIjoiIiwic3NvX2lkZW50aWZpZXIiOiIiLCJjbHVzdGVyX2lkIjotMSwicG9ydGZvbGlvX2lkIjoic3luZXJ6aXAxIiwidGltZV96b25lIjowLCJlbWFpbCI6IiIsImdpdmVuX25hbWUiOiIiLCJmYW1pbHlfbmFtZSI6IiIsInJldHVybl90byI6IiIsImF1ZCI6Imh0dHBzOi8vcHJkc3ByaW50LmFzc2VtYmxhLmNjIiwiZXhwIjoxNjAxODI5MzEwLCJqdGkiOiI3ZjZmZWM0ZS1kNDRiLTQ3OGEtYWJmOC1iNjhhMzVjNzk2OGEiLCJpYXQiOjE2MDE4MjkxMzAsImlzcyI6ImF1dGgtc3ZjIn0.f00vRHo6arhv_BP3pn90T98MWMA4eJUF_SyUEHdLOqI</java.net.URL>
+    </httpSample>
+    <httpSample t="2135" it="0" lt="2134" ct="1676" ts="1601829145501" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-2" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="1302" sby="728" ng="2" na="2">
+      <java.net.URL>https://prdsprint.assembla.cc/start</java.net.URL>
+    </httpSample>
+    <httpSample t="7008" it="0" lt="4523" ct="0" ts="1601829147637" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-3" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="38923" sby="748" ng="2" na="2">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="7034" it="0" lt="0" ct="2854" ts="1601829154657" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-4" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="439" sby="733" ng="2" na="2">
+      <java.net.URL>https://assets1.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="5516" it="0" lt="5516" ct="4802" ts="1601829154654" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-5" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="930" sby="632" ng="2" na="2">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2135" it="0" lt="0" ct="0" ts="1601829154655" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-6" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="439" sby="664" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="8217" it="0" lt="5900" ct="4798" ts="1601829154657" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-7" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="41296" sby="591" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/sections/portfolio_manager/portfolio_manager-ad2606171f2e031af0712c2b2de81b673ac7905b5d99957d6e9ac6ad349c67a8.css</java.net.URL>
+    </httpSample>
+    <httpSample t="7039" it="0" lt="1700" ct="0" ts="1601829154656" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-8" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="232903" sby="552" ng="2" na="2">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="11256" it="0" lt="2376" ct="0" ts="1601829154654" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-9" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="257008" sby="559" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="431" it="0" lt="431" ct="0" ts="1601829156790" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-10" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3102" sby="559" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="58186" it="0" lt="2731" ct="0" ts="1601829157225" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-11" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1120348" sby="559" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/base-7f9650cceefd0b8e85a356e73946ec0070451f086c41fe55b13f9242e3e89528.js</java.net.URL>
+    </httpSample>
+    <httpSample t="64786" it="0" lt="5886" ct="2397" ts="1601829160171" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-12" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2151391" sby="565" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="9633" it="0" lt="9603" ct="3902" ts="1601829161692" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-13" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="43524" sby="578" ng="2" na="2">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="19540" it="0" lt="19540" ct="2363" ts="1601829161697" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-14" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4914" sby="561" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="122648" it="0" lt="0" ct="122646" ts="1601829162877" s="false" lb="https://prdsprint.assembla.cc:8443/users/authenticate-15" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Socket closed" tn="Thread Group 1-1" dt="text" by="3025" sby="0" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="62515" it="0" lt="18334" ct="16373" ts="1601829165913" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-16" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="967421" sby="565" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="4150" it="0" lt="2155" ct="1349" ts="1601829171327" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-17" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="140581" sby="582" ng="2" na="2">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/portfolio_manager/new_start-16244c8555b74269d65bde8e9445a7d6ed595a11a4871489f5c56a32b222b720.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2400" it="0" lt="2400" ct="1913" ts="1601829175477" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-18" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="2138" sby="626" ng="2" na="2">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="641" it="0" lt="640" ct="0" ts="1601829177877" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-19" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="3571" sby="631" ng="2" na="2">
+      <java.net.URL>https://assets0.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="561" it="0" lt="561" ct="0" ts="1601829178519" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-20" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="4835" sby="624" ng="2" na="2">
+      <java.net.URL>https://assets2.assembla.cc/assets/avatars/big/5-31313161366635306264363765353264616236326362666565616638393830653434396536626437666664636535613964356336343234313436363835373731.png</java.net.URL>
+    </httpSample>
+    <httpSample t="22457" it="0" lt="2818" ct="2086" ts="1601829179082" s="true" lb="https://prdsprint.assembla.cc:8443/users/authenticate-21" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="248770" sby="510" ng="2" na="2">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+  </httpSample>
+  <httpSample t="1732" it="0" lt="1731" ct="1252" ts="1601829285533" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600440657947" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1319" sby="629" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600440657947</java.net.URL>
+  </httpSample>
+  <httpSample t="480" it="0" lt="479" ct="0" ts="1601829287267" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2669" sby="605" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600440657951</java.net.URL>
+  </httpSample>
+  <httpSample t="739" it="0" lt="739" ct="0" ts="1601829287748" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2840" sby="598" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/spaces?_=1600440657995</java.net.URL>
+  </httpSample>
+  <httpSample t="434" it="0" lt="434" ct="0" ts="1601829288489" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1257" sby="597" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/repos?_=1600440657997</java.net.URL>
+  </httpSample>
+  <httpSample t="481" it="0" lt="481" ct="0" ts="1601829288924" s="true" lb="https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5127" sby="615" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/new_home/tickets?filter=authored&amp;_=1600440657999</java.net.URL>
+  </httpSample>
+  <httpSample t="427" it="0" lt="427" ct="0" ts="1601829289408" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="845" sby="738" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="18911" it="22" lt="0" ct="0" ts="1601829289857" s="true" lb="Select Space" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="6357362" sby="19334" ng="1" na="1">
+  <httpSample t="12748" it="0" lt="448" ct="0" ts="1601829289858" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6212692" sby="10408" ng="1" na="1">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="448" it="0" lt="448" ct="0" ts="1601829289858" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-0" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="1438" sby="676" ng="1" na="1">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint</java.net.URL>
+    </httpSample>
+    <httpSample t="2217" it="0" lt="973" ct="0" ts="1601829290307" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="68300" sby="698" ng="1" na="1">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+    </httpSample>
+    <httpSample t="579" it="0" lt="579" ct="429" ts="1601829292538" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-2" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1787" sby="534" ng="1" na="1">
+      <java.net.URL>https://assets0.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="612" it="0" lt="0" ct="468" ts="1601829292536" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-3" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="439" sby="635" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="608" it="0" lt="0" ct="459" ts="1601829292537" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-4" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="506" sby="555" ng="1" na="1">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-7cef2af054c04dd9c2083589201f3dd1e1ff701262134a75791baddbd3687a7e.css</java.net.URL>
+    </httpSample>
+    <httpSample t="1247" it="0" lt="662" ct="477" ts="1601829292539" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-5" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="257008" sby="461" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/v4/v4-global-8fe3848a804f5f42f2835683669603103a36c03b8936b50cb04c318fbf024ea6.css</java.net.URL>
+    </httpSample>
+    <httpSample t="588" it="0" lt="588" ct="435" ts="1601829292536" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-6" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3102" sby="461" ng="1" na="1">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/print-66ac31edf662539cf47c94c07770b96bf70b906f8cbc74a760549450d99a5f45.css</java.net.URL>
+    </httpSample>
+    <httpSample t="4744" it="0" lt="671" ct="481" ts="1601829292535" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-7" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2151391" sby="467" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/new_global-5ca8382e5cc99d727c31e9c10b9e0d6caf5c98723ac495de77c673a1eb1be369.js</java.net.URL>
+    </httpSample>
+    <httpSample t="902" it="0" lt="708" ct="476" ts="1601829293120" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-8" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="43524" sby="480" ng="1" na="1">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/new_notification_center-5030d5c064723f3ce599f5a9dc58ca3f009aed962abf479d7409b78f450120d3.js</java.net.URL>
+    </httpSample>
+    <httpSample t="688" it="0" lt="688" ct="484" ts="1601829293147" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-9" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4914" sby="463" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/upload-852f14d807e53879d1196631d977a4d16d6259d4863fa9dd5b55e9eb8ec2a575.js</java.net.URL>
+    </httpSample>
+    <httpSample t="5549" it="0" lt="701" ct="463" ts="1601829293151" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-10" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1032206" sby="474" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/portfolio_wizards-d5427a61e4d4e2873eb23520e32ead752f4dd5535b05da846004a83786d04906.js</java.net.URL>
+    </httpSample>
+    <httpSample t="6280" it="0" lt="820" ct="570" ts="1601829293258" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-11" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="967421" sby="467" ng="1" na="1">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/space_team-015a6e6c10366989194897d3ed121a97bdf2e11e5bc545dadee20dd8f2c35ccd.js</java.net.URL>
+    </httpSample>
+    <httpSample t="6534" it="0" lt="1109" ct="709" ts="1601829293789" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-12" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1553384" sby="485" ng="1" na="1">
+      <java.net.URL>https://assets0.assembla.cc/assets/packages/spaces/tickets/realtime_list-526a774fe56609bc58dc0b2725e5fd6a9e76eccc58b2f7d683cf6ae724c91c04.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2055" it="0" lt="1473" ct="690" ts="1601829293837" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-13" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="77851" sby="465" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/packages/calendar-831142da4b6c9d73f071de937a2f3187117d316c290598051d212efdf3920ca9.js</java.net.URL>
+    </httpSample>
+    <httpSample t="2354" it="0" lt="2354" ct="1962" ts="1601829294023" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-14" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2350" sby="472" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/widgets/calendar/lang/en-e52e0f922ab49e314eaabdcfd509ea57d7b7a7e1553330431df29e748594d72b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="551" it="0" lt="438" ct="0" ts="1601829295892" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-15" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40410" sby="465" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/packages/cloud_fs-c5506db6d0d8f79409064369c28c06ad7d7c272e8296031d6a19df2a6c4ee250.js</java.net.URL>
+    </httpSample>
+    <httpSample t="6228" it="0" lt="0" ct="6108" ts="1601829296378" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-16" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="506" sby="629" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/avatars/small/5-30303433353932666266346637396466316639373765656233386564323233313732393662303861353930666430376233343336343364383339336232363338.png</java.net.URL>
+    </httpSample>
+    <httpSample t="535" it="0" lt="535" ct="0" ts="1601829296444" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-17" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="3571" sby="533" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/assembla-logo-shield-65653231616333623461343837313766353265656664306133333030653731373534313863323265313565383563613435643030653839316262393038636463.png</java.net.URL>
+    </httpSample>
+    <httpSample t="318" it="0" lt="318" ct="0" ts="1601829296980" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-18" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2299" sby="475" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/new_navigation_quick_access-c305b882dff08f051913cc42035f69cf10c2e799f2f853a2da075e743c2dd80b.js</java.net.URL>
+    </httpSample>
+    <httpSample t="1388" it="0" lt="0" ct="752" ts="1601829297281" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint-19" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="285" sby="513" ng="1" na="1">
+      <java.net.URL>https://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/tickets/realtime_list</java.net.URL>
+  </httpSample>
+  <httpSample t="422" it="0" lt="422" ct="0" ts="1601829302611" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/mentions?filter%5Btype%5D=allMentions&amp;fnh=1&amp;_=1600445380517" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1319" sby="652" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/mentions?fnh=1&amp;filter%5Btype%5D=allMentions&amp;_=1600445380517</java.net.URL>
+  </httpSample>
+  <httpSample t="444" it="0" lt="444" ct="0" ts="1601829303034" s="true" lb="https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2669" sby="628" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/user/notifications?fnh=1&amp;_=1600445380525</java.net.URL>
+  </httpSample>
+  <httpSample t="421" it="0" lt="421" ct="0" ts="1601829303481" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1293" sby="649" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/export_requests?_=1600445380586</java.net.URL>
+  </httpSample>
+  <httpSample t="892" it="0" lt="498" ct="0" ts="1601829303904" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="18428" sby="672" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports?view=list&amp;_=1600445380592</java.net.URL>
+  </httpSample>
+  <httpSample t="436" it="0" lt="436" ct="0" ts="1601829304798" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2998" sby="696" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/ticket_reports/predefined_filters_meta?view=list&amp;_=1600445380595</java.net.URL>
+  </httpSample>
+  <httpSample t="487" it="0" lt="486" ct="0" ts="1601829305237" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="12304" sby="647" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/ticket_list/meta?_=1600445380606</java.net.URL>
+  </httpSample>
+  <httpSample t="697" it="0" lt="509" ct="0" ts="1601829305726" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22160" sby="657" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/czeFWQ-Ber6QmOaKjxsRla/tickets/new_ticket_data?_=1600445380608</java.net.URL>
+  </httpSample>
+  <httpSample t="432" it="0" lt="431" ct="0" ts="1601829306424" s="true" lb="https://synerzip1.prdsprint.assembla.cc/api/realtime_auth" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="973" sby="778" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/api/realtime_auth</java.net.URL>
+  </httpSample>
+  <httpSample t="1932" it="0" lt="661" ct="0" ts="1601829306857" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="82526" sby="3547" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/New-Assembla-Sprint/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="4638" it="4" lt="0" ct="0" ts="1601829308794" s="true" lb="Select None" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="150079" sby="10263" ng="1" na="1">
+  <httpSample t="882" it="0" lt="504" ct="0" ts="1601829308794" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21083" sby="683" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/ticket_reports?view=list&amp;_=1599472397640</java.net.URL>
+  </httpSample>
+  <httpSample t="2384" it="0" lt="578" ct="0" ts="1601829309677" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="64498" sby="4790" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+  <httpSample t="1372" it="0" lt="596" ct="0" ts="1601829312062" s="true" lb="https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="64498" sby="4790" ng="1" na="1">
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/spaces/Assambla-UX-Sprint-Planning-01/next_ticket_tool/tickets</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="3263" it="0" lt="0" ct="0" ts="1601829313435" s="true" lb="Logout" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="448316" sby="6541" ng="1" na="1">
+  <httpSample t="3263" it="0" lt="790" ct="0" ts="1601829313435" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="448316" sby="6541" ng="1" na="1">
+    <httpSample t="790" it="0" lt="790" ct="0" ts="1601829313435" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-0" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="1527" sby="656" ng="1" na="1">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/logout</java.net.URL>
+    </httpSample>
+    <httpSample t="479" it="0" lt="478" ct="0" ts="1601829314226" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-1" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="1105" sby="561" ng="1" na="1">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/</java.net.URL>
+    </httpSample>
+    <httpSample t="887" it="0" lt="414" ct="0" ts="1601829314707" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-2" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13627" sby="582" ng="1" na="1">
+      <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+    </httpSample>
+    <httpSample t="215" it="0" lt="215" ct="0" ts="1601829315600" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-3" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1787" sby="534" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/favicon/favicon-32x32-65393263343733336162306235393939363435653636323738343230316631666462653731663237653035643161303032303531346465636537623637333462.png</java.net.URL>
+    </httpSample>
+    <httpSample t="214" it="0" lt="0" ct="0" ts="1601829315603" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-4" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="439" sby="635" ng="1" na="1">
+      <java.net.URL>https://assets3.assembla.cc/assets/favicon/favicon-16x16-30626138323932333661376332373633306636633136656665396462313031396336316139303732393364323830646264333837376534396535653833363836.png</java.net.URL>
+    </httpSample>
+    <httpSample t="904" it="0" lt="717" ct="355" ts="1601829315603" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-5" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="51524" sby="593" ng="1" na="1">
+      <java.net.URL>https://apis.google.com/js/client:platform.js?onload=render</java.net.URL>
+    </httpSample>
+    <httpSample t="465" it="0" lt="217" ct="0" ts="1601829315601" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-6" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="92197" sby="465" ng="1" na="1">
+      <java.net.URL>https://assets1.assembla.cc/assets/themes/blue_user-9ffc9685f7752e60fed8689ac28270be76951414ff4932ffc39c20eac62db32a.css</java.net.URL>
+    </httpSample>
+    <httpSample t="568" it="0" lt="218" ct="0" ts="1601829315600" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-7" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="148545" sby="467" ng="1" na="1">
+      <java.net.URL>https://assets1.assembla.cc/assets/v4/v4-theme-signup-443c0c9f4ca8a870d9aa095013b431fb94da6df6c47df7856d61a72c52e53cc2.css</java.net.URL>
+    </httpSample>
+    <httpSample t="619" it="0" lt="619" ct="509" ts="1601829315601" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-8" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4764" sby="529" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-google-30663533353163626133303335303139326234313530326166366132366161623239666333663233656439323733646237663461333431366162376232643730.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="161" it="0" lt="161" ct="0" ts="1601829315816" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-9" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3833" sby="529" ng="1" na="1">
+      <java.net.URL>https://assets2.assembla.cc/assets/btn-login-github-62393235323138376131656430616463333238646439346339383739396630663462613234643630303238313234643736653463346135633963643339656635.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="555" it="0" lt="555" ct="433" ts="1601829315818" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-10" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4658" sby="528" ng="1" na="1">
+      <java.net.URL>https://assets1.assembla.cc/assets/btn-login-slack-35326539326337323330626666636130376533376365386233626638366530386539373563666630353237333364373864313565663338303263653532346334.svg</java.net.URL>
+    </httpSample>
+    <httpSample t="720" it="0" lt="497" ct="372" ts="1601829315979" s="true" lb="https://synerzip1.prdsprint.assembla.cc/logout-11" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124310" sby="462" ng="1" na="1">
+      <java.net.URL>https://assets1.assembla.cc/assets/packages/login-d4ac35c54268bc333e377c4b7c3e86fe16412adcb8866b9db9d5bd11e4f64bd2.js</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://synerzip1.prdsprint.assembla.cc/p/home</java.net.URL>
+  </httpSample>
+</sample>
+
+</testResults>
