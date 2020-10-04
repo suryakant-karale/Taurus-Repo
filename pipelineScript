@@ -1,1 +1,1 @@
-bzt 'D:\\apache-jmeter-5.3\\apache-jmeter-5.3\\Assembla_Staging.jmx -o execution.0.concurrency=$CONCURRENCY -o execution.0.iterations=$ITERATIONS -o execution.0.ramp-up=$RAMPUP -report'
+node { bzt 'D:\\apache-jmeter-5.3\\apache-jmeter-5.3\\Assembla_Staging.jmx -o execution.0.concurrency=$CONCURRENCY -o execution.0.iterations=$ITERATIONS -o execution.0.ramp-up=$RAMPUP -report'}
