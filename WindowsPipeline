@@ -1,4 +1,3 @@
 node { 
 stage 'Run JMeter Test'
-'D:/apache-jmeter-5.3/apache-jmeter-5.3/binjmeter.bat -n -t D:/apache-jmeter-5.3/apache-jmeter-5.3/Assembla_Staging.jmx -l D:/apache-jmeter-5.3/apache-jmeter-5.3/result.jtl'
-}
+'D:/apache-jmeter-5.3/apache-jmeter-5.3/binjmeter.bat -n -t D:/apache-jmeter-5.3/apache-jmeter-5.3/Assembla_Staging.jmx -l D:/apache-jmeter-5.3/apache-jmeter-5.3/result.jtl'}
