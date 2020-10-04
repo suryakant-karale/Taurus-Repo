@@ -1,1 +1,1 @@
-node { bzt 'Assembla_Staging.jmx' }
+node { bzt 'D:\JMGIT\Taurus-Repo\Assembla_Staging.jmx' }
