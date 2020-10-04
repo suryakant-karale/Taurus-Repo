@@ -1,4 +1,4 @@
 node {
 stage 'Run JMeter Test'
-'D:/apache-jmeter-5.3/apache-jmeter-5.3/Assembla_Staging.jmx -o execution.0.concurrency=10 -o execution.0.iterations=1 -o execution.0.ramp-up=10s -report'
+'D:/apache-jmeter-5.3/apache-jmeter-5.3/Assembla_Staging.jmx -o execution.0.concurrency=3 -o execution.0.iterations=1 -o execution.0.ramp-up=10s -report'
 }
