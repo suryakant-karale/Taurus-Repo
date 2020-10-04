@@ -1,1 +1,1 @@
-node { bzt 'Assembla_Staging.jmx -o execution.0.concurrency=2-o execution.0.iterations=1-o execution.0.rampup=1 -report' }
+node { bzt 'Assembla_Staging.jmx' }
